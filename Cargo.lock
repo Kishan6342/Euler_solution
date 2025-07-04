@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+<<<<<<< HEAD
 name = "CSVGenerator"
+=======
+name = "EulerSolution"
+>>>>>>> 97cc43e3d60585b7097cf2f8ebe128dfb553566a
 version = "0.1.0"
