@@ -12,9 +12,11 @@ This differential equation is linear and solvable analytically using integrating
 
 The exact solution is:
 
-$
+$$
 y(t) = \frac{1}{2}(\cos(t) + \sin(t)) + \frac{1}{2}e^{-t}
-$
+$$
+
+
 
 This analytical solution is used to compare the accuracy of the numerical Euler method.
 
