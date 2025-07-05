@@ -35,7 +35,7 @@ This analytical solution is used to compare the accuracy of the numerical Euler 
 - `output_1000.csv`  
   These CSV files contain results for 20, 100, and 1000 time steps respectively.
 
-- `visualization.ipynb`  
+- `plot.ipynb`  
   A Python Jupyter notebook that loads the CSV files and **visualizes** the results. It includes:
   - Comparison of analytical and numerical solutions
   - Plot of error vs time for different step sizes
@@ -57,11 +57,3 @@ These files are used to generate plots to analyze accuracy and error behavior of
 
 ---
 
-## ▶️ How to Run
-
-### 🦀 Using Rust
-
-To build and run the solver:
-
-```bash
-cargo run --release
