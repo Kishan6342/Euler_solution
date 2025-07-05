@@ -4,9 +4,7 @@
 
 Solve the following initial value problem (IVP) using the **Euler method**:
 
-\[
-y' = \cos(t) - y,\quad 0 \leq t \leq 5,\quad y(0) = 1
-\]
+$y' = \cos(t) - y,\quad 0 \leq t \leq 5,\quad y(0) = 1$
 
 ### 📌 Analytical Solution
 
