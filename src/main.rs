@@ -18,7 +18,7 @@ fn euler_method(n: usize, t0: f64, t_end:f64, y0:f64  )
         println!("the value of y at {:.10} is {:.10}", t, y);
 
     }
-    println!("{:.10},{:.10}", t, y);
+    
 }
 
 
